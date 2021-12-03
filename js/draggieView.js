@@ -27,7 +27,7 @@ class DraggieView extends Backbone.View {
   }
 
   onDragMove(event, pointer) {
-    console.log('move');
+   
     if (this.isOverlap(pointer)) {
       this.settings.target.addClass('is-active');
     } else {
