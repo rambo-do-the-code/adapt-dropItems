@@ -104,6 +104,7 @@ class DropItemsView extends QuestionView {
 
   resetQuestion() {
     this.model.resetItems();
+    this.setPosition();
   }
 
   showCorrectAnswer() {

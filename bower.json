@@ -5,7 +5,7 @@
     "url": "git://github.com/nachocinalli/adapt-dropItems.git"
   },
   "framework": ">=5.17.2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/nachocinalli/adapt-dropItems",
   "issues": "https://github.com/nachocinalli/adapt-dropItems/issues",
   "component": "dropItems",
